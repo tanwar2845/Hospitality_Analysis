@@ -28,6 +28,7 @@ Created key performance measures, including:
 Revenue, RevPAR, and ADR to monitor financial health.
 Occupancy %, Realization %, and WoW metrics to track operational efficiency.
 Ratings and Feedback Analysis to understand customer satisfaction.
+
 Dashboard Design:
 
 Built a multi-page dashboard to address specific focus areas:
