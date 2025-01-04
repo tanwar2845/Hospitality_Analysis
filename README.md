@@ -1,7 +1,6 @@
 Power BI dashboard - https://app.powerbi.com/view?r=eyJrIjoiOTMxYmQwZWMtZGM3MC00NTQ3LTg4YTItMDg0OGFhNjc1NWE0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
-https://github.com/tanwar2845/Hotel-Grand/blob/main/Images/Screenshot.png
-![problem](https://github.com/tanwar2845/Hotel-Grand/blob/main/Images/Screenshot.png)
+![project](https://github.com/tanwar2845/Hotel-Grand/blob/main/Images/Screenshot.png)
 
 # Atliq Grand Hotel Analysis
 ## SITUATION
