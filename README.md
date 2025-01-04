@@ -22,15 +22,14 @@ dim_rooms,
 dim_hotels 
 for contextual information.
 Established a star schema to optimize data relationships and enable advanced analytics.
-Measure Development:
 
+Measure Development:
 Created key performance measures, including:
 Revenue, RevPAR, and ADR to monitor financial health.
 Occupancy %, Realization %, and WoW metrics to track operational efficiency.
 Ratings and Feedback Analysis to understand customer satisfaction.
 
 Dashboard Design:
-
 Built a multi-page dashboard to address specific focus areas:
 Revenue & Occupancy View: Highlighted financial metrics and occupancy rates.
 Booking Performance View: Focused on trends in bookings, cancellations, and platform distribution.
