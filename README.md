@@ -11,9 +11,16 @@ Enhancing insights into customer satisfaction and booking patterns to improve se
 Comparing Week-over-Week (WoW) performance metrics to identify trends and anomalies.
 
 ## ACTION
-Combined multiple datasets:
-fact_aggregated_bookings and fact_bookings for booking and revenue data.
-Dimension tables like dim_date, dim_rooms, and dim_hotels for contextual information.
+### Combined multiple datasets:
+revenue data
+fact_aggregated_bookings 
+fact_bookings for booking 
+
+Dimension tables 
+dim_date, 
+dim_rooms, 
+dim_hotels 
+for contextual information.
 Established a star schema to optimize data relationships and enable advanced analytics.
 Measure Development:
 
