@@ -5,16 +5,12 @@ This downturn is attributed to strategic moves by competitors that disrupted Atl
 revenue has significantly decreased, necessitating a comprehensive data-driven strategy to regain its competitive edge.
 
 ## TASK
-### The objective was to analyze and address the factors contributing to the decline by:
-
 Evaluating financial performance metrics like revenue, RevPAR (Revenue Per Available Room), and ADR (Average Daily Rate).
 Assessing occupancy trends and customer behavior to identify operational inefficiencies.
 Enhancing insights into customer satisfaction and booking patterns to improve service offerings.
 Comparing Week-over-Week (WoW) performance metrics to identify trends and anomalies.
 
 ## ACTION
-### Data Integration:
-
 Combined multiple datasets:
 fact_aggregated_bookings and fact_bookings for booking and revenue data.
 Dimension tables like dim_date, dim_rooms, and dim_hotels for contextual information.
