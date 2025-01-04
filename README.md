@@ -34,16 +34,21 @@ Built a multi-page dashboard to address specific focus areas:
 Revenue & Occupancy View: Highlighted financial metrics and occupancy rates.
 Booking Performance View: Focused on trends in bookings, cancellations, and platform distribution.
 Customer Experience View: Provided insights into ratings, preferences, and customer feedback.
-Insights & Visualization:
 
+Insights & Visualization:
 Incorporated advanced visuals like scatter plots, heat maps, and KPIs to reveal correlations and patterns.
 Enabled dynamic filtering by dimensions such as city, room class, booking platform, and week number.
 
 ## RESULT
-Identified critical factors behind revenue decline, including low occupancy in certain room classes and high cancellation rates.
-Revealed that certain booking platforms contributed disproportionately to cancellations.
-Provided actionable recommendations to:
-Optimize pricing strategies and promotional efforts to improve ADR and RevPAR.
-Enhance customer experience based on rating trends and feedback.
-Reallocate resources to high-performing properties and platforms.
-This analysis empowered Atliq Grand Hotel to adopt a data-driven strategy to regain market share and improve financial performance.
+
+City-Specific Insights:
+Hyderabad: Provides the second-highest number of bookings but has the lowest ADR.
+Mumbai: Generates the highest ADR and contributes the most revenue.
+
+Customer Satisfaction:
+Atliq Seasons: Receives a poor average rating of 2.4, requiring immediate attention.
+Bangalore: Despite having the highest average rating for Atliq Grand, the city's overall average rating is not very good.
+Room Classes: Presidential rooms receive the highest overall average rating among all room classes.
+
+Platform Performance:
+MakeYourTrip: Emerges as the top platform, contributing the highest number of bookings.
