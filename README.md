@@ -12,8 +12,8 @@ Comparing Week-over-Week (WoW) performance metrics to identify trends and anomal
 
 ## ACTION
 ### Combined multiple datasets:
-revenue data-
-fact_aggregated_bookings 
+Revenue data-
+fact_aggregated_bookings, 
 fact_bookings for booking 
 
 Dimension tables- 
