@@ -47,14 +47,14 @@ Enabled dynamic filtering by dimensions such as city, room class, booking platfo
 
 ## RESULT
 
-City-Specific Insights:
+### City-Specific Insights:
 
 #### Hyderabad:
 Provides the second-highest number of bookings but has the lowest ADR.
 #### Mumbai:
 Generates the highest ADR and contributes the most revenue.
 
-Customer Satisfaction:
+### Customer Satisfaction:
 
 #### Atliq Seasons:
 Receives a poor average rating of 2.4, requiring immediate attention.
@@ -63,6 +63,6 @@ Despite having the highest average rating for Atliq Grand, the city's overall av
 #### Room Classes: 
 Presidential rooms receive the highest overall average rating among all room classes.
 
-#### Platform Performance:
+### Platform Performance:
 
 MakeYourTrip: Emerges as the top platform, contributing the highest number of bookings.
