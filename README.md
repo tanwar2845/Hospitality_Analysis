@@ -1,4 +1,4 @@
-video presentation - (https://rb.gy/gnaoql)
+video presentation - https://shorturl.at/BXBFc
 
 Power BI dashboard - https://app.powerbi.com/view?r=eyJrIjoiOTMxYmQwZWMtZGM3MC00NTQ3LTg4YTItMDg0OGFhNjc1NWE0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
