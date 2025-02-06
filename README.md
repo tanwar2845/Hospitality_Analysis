@@ -1,4 +1,4 @@
-📌 [Video Presentation]([https://www.linkedin.com/in/kuldeep-tanwar2845](https://www.linkedin.com/posts/kuldeep-tanwar2845_%F0%9D%97%A5%F0%9D%97%B2%F0%9D%98%80%F0%9D%98%82%F0%9D%97%BA%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B4-%F0%9D%97%A0%F0%9D%98%86-%F0%9D%97%97%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%AE-%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%AE%F0%9D%97%B9%F0%9D%98%86-activity-7281245614414217216-y29k?utm_source=share&utm_medium=member_desktop))  
+📌 [Video Presentation](https://www.linkedin.com/posts/kuldeep-tanwar2845_%F0%9D%97%A5%F0%9D%97%B2%F0%9D%98%80%F0%9D%98%82%F0%9D%97%BA%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B4-%F0%9D%97%A0%F0%9D%98%86-%F0%9D%97%97%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%AE-%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%AE%F0%9D%97%B9%F0%9D%98%86-activity-7281245614414217216-y29k?utm_source=share&utm_medium=member_desktop)
 
 📌 [Power BI Dashboard](https://lnkd.in/dqYfruMr)
 
