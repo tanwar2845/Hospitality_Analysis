@@ -1,6 +1,6 @@
-video presentation - https://shorturl.at/BXBFc
+📌 [Video Presentation]([https://www.linkedin.com/in/kuldeep-tanwar2845](https://www.linkedin.com/posts/kuldeep-tanwar2845_%F0%9D%97%A5%F0%9D%97%B2%F0%9D%98%80%F0%9D%98%82%F0%9D%97%BA%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B4-%F0%9D%97%A0%F0%9D%98%86-%F0%9D%97%97%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%AE-%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%AE%F0%9D%97%B9%F0%9D%98%86-activity-7281245614414217216-y29k?utm_source=share&utm_medium=member_desktop))  
 
-Power BI dashboard - https://shorturl.at/eK5tI
+📌 [Power BI Dashboard](https://lnkd.in/dqYfruMr)
 
 ![project](https://github.com/tanwar2845/Hotel-Grand/blob/main/Images/Screenshot.png)
 
@@ -66,3 +66,7 @@ Presidential rooms receive the highest overall average rating among all room cla
 ### Platform Performance:
 
 MakeYourTrip: Emerges as the top platform, contributing the highest number of bookings.
+
+## 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kuldeep-tanwar2845)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanwar2845)
