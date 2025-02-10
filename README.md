@@ -62,9 +62,7 @@ Receives a poor average rating of 2.4, requiring immediate attention.
 Despite having the highest average rating for Atliq Grand, the city's overall average rating is not very good.
 #### Room Classes: 
 Presidential rooms receive the highest overall average rating among all room classes.
-
 ### Platform Performance:
-
 MakeYourTrip: Emerges as the top platform, contributing the highest number of bookings.
 
 ## 🔗 Connect with Me
