@@ -11,16 +11,16 @@ This downturn is attributed to strategic moves by competitors that disrupted Atl
 revenue has significantly decreased, necessitating a comprehensive data-driven strategy to regain its competitive edge.
 
 ## TASK
-Evaluating financial performance metrics like revenue, RevPAR (Revenue Per Available Room), and ADR (Average Daily Rate).
-Assessing occupancy trends and customer behavior to identify operational inefficiencies.
-Enhancing insights into customer satisfaction and booking patterns to improve service offerings.
-Comparing Week-over-Week (WoW) performance metrics to identify trends and anomalies.
+   * Evaluating financial performance metrics like revenue, RevPAR (Revenue Per Available Room), and ADR (Average Daily Rate).
+   * Assessing occupancy trends and customer behavior to identify operational inefficiencies.
+   * Enhancing insights into customer satisfaction and booking patterns to improve service offerings.
+   * Comparing Week-over-Week (WoW) performance metrics to identify trends and anomalies.
 
 ## ACTION
 ### Combined multiple datasets:
-Revenue data-
-fact_aggregated_bookings, 
-fact_bookings for booking 
+   Revenue data-
+   fact_aggregated_bookings, 
+   fact_bookings for booking 
 
 Dimension tables- 
 dim_date, 
