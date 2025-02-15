@@ -18,22 +18,24 @@ revenue has significantly decreased, necessitating a comprehensive data-driven s
 
 ## ACTION
 ### Combined multiple datasets:
-   Revenue data-
-   fact_aggregated_bookings, 
-   fact_bookings for booking 
 
-Dimension tables- 
-dim_date, 
-dim_rooms, 
-dim_hotels 
-for contextual information.
-Established a star schema to optimize data relationships and enable advanced analytics.
+
+   * Revenue data-
+      fact_aggregated_bookings, 
+      fact_bookings for booking 
+
+   * Dimension tables- 
+      dim_date, 
+      dim_rooms, 
+      dim_hotels 
+   for contextual information.
+   Established a star schema to optimize data relationships and enable advanced analytics.
 
 ### Measure Development:
-Created key performance measures, including:
-Revenue, RevPAR, and ADR to monitor financial health.
-Occupancy %, Realization %, and WoW metrics to track operational efficiency.
-Ratings and Feedback Analysis to understand customer satisfaction.
+* Created key performance measures, including:
+  Revenue, RevPAR, and ADR to monitor financial health.
+  Occupancy %, Realization %, and WoW metrics to track operational efficiency.
+  Ratings and Feedback Analysis to understand customer satisfaction.
 
 ### Dashboard Design:
 #### Built a multi-page dashboard to address specific focus areas:
@@ -53,21 +55,23 @@ Enabled dynamic filtering by dimensions such as city, room class, booking platfo
 
 ### City-Specific Insights:
 
-#### Hyderabad:
-Provides the second-highest number of bookings but has the lowest ADR.
-#### Mumbai:
-Generates the highest ADR and contributes the most revenue.
+* #### Hyderabad:
+  Provides the second-highest number of bookings but has the lowest ADR.
+* #### Mumbai:
+   Generates the highest ADR and contributes the most revenue.
 
 ### Customer Satisfaction:
 
-#### Atliq Seasons:
-Receives a poor average rating of 2.4, requiring immediate attention.
-#### Bangalore: 
-Despite having the highest average rating for Atliq Grand, the city's overall average rating is not very good.
-#### Room Classes: 
-Presidential rooms receive the highest overall average rating among all room classes.
+* #### Atliq Seasons:
+   Receives a poor average rating of 2.4, requiring immediate attention.
+* #### Bangalore: 
+   Despite having the highest average rating for Atliq Grand, the city's overall average rating is not very good.
+* #### Room Classes: 
+   Presidential rooms receive the highest overall average rating among all room classes.
+  
 ### Platform Performance:
-MakeYourTrip: Emerges as the top platform, contributing the highest number of bookings.
+
+  * MakeYourTrip: Emerges as the top platform, contributing the highest number of bookings.
 
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kuldeep-tanwar2845)  
