@@ -38,11 +38,14 @@ Ratings and Feedback Analysis to understand customer satisfaction.
 ### Dashboard Design:
 Built a multi-page dashboard to address specific focus areas-
 
-  Revenue & Occupancy View: 
+  Revenue & Occupancy View:
+  
     Highlighted financial metrics and occupancy rates.
   Booking Performance View: 
+  
     Focused on trends in bookings, cancellations, and platform distribution.
   Customer Experience View: 
+  
     Provided insights into ratings, preferences, and customer feedback.
 
 ### Insights & Visualization:
